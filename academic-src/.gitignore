@@ -1,0 +1,6 @@
+node_modules/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/
+.openai/*credential*

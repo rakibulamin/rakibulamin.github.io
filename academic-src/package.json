@@ -1,0 +1,1 @@
+{"name":"rakib-academic-pages","private":true,"scripts":{"build":"node scripts/build-styles.mjs && bundle exec jekyll build --destination dist"},"devDependencies":{"sass":"^1.93.0"}}

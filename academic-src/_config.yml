@@ -1,0 +1,53 @@
+locale: en-US
+site_theme: default
+title: Rakibul Amin
+title_separator: "|"
+name: Rakibul Amin
+description: "Civil and environmental engineer working at the intersection of water quality, resilient WASH services, and public health."
+url: "https://rakibulamin.github.io"
+baseurl: "https://rakibulamin.github.io"
+repository: ""
+author:
+  avatar: initials.svg
+  name: Rakibul Amin
+  bio: "Civil & Environmental Engineer"
+  location: "Cox’s Bazar, Bangladesh"
+  employer: "Caritas Bangladesh"
+breadcrumbs: false
+future: false
+atom_feed:
+  hide: true
+comments:
+  provider: false
+analytics:
+  provider: false
+include: [_pages]
+exclude: [dist, node_modules, vendor, Gemfile, Gemfile.lock, README.md, TEMPLATE.md, AGENTS.md, package.json, package-lock.json, scripts, .openai, assets/js/_main.js, assets/js/plugins, assets/js/theme.js, assets/css/main.scss, assets/css/fontawesome.scss]
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
+  portfolio:
+    output: true
+    permalink: /projects/:path/
+  research:
+    output: true
+    permalink: /research/:path/
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins: []
+timezone: Asia/Dhaka

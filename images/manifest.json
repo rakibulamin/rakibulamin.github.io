@@ -1,0 +1,19 @@
+{
+	"name": "Rakibul Amin",
+	"short_name": "Rakibul Amin",
+	"description": "Civil and environmental engineer working at the intersection of water quality, resilient WASH services, and public health.",
+	"start_url": "/",
+	"lang": "en-US",
+	"icons": [
+		{
+			"src": "/images/favicon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/images/favicon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
