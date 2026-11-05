@@ -1,0 +1,6 @@
+---
+title: "Professional Experience"
+permalink: /professional-experience/
+---
+
+<p class="lead">Engineering experience across refugee camps and healthcare facilities in Bangladesh, with a focus on safe, reliable WASH services.</p><section class="career-entry"><p class="eyebrow">MAY 2025–PRESENT</p><h2>Technical Coordinator — WASH</h2><h3>Caritas Bangladesh</h3><p>Supporting WASH services in Camps 4 and 17, Cox’s Bazar, and serving as the Camp 17 WASH focal point.</p></section><section class="career-entry"><p class="eyebrow">NOVEMBER 2023–APRIL 2025</p><h2>Advocacy &amp; IPC Supervisor</h2><h3>Terre des hommes</h3><p>Healthcare facility WASH work in Teknaf, including WASH FIT, operation and maintenance roadmaps, and life-cycle costing for 17 healthcare facilities.</p></section><section class="career-entry"><p class="eyebrow">PREVIOUS EXPERIENCE</p><h2>Field Engineer — WASH &amp; IPC</h2><h3>HEKS/EPER</h3><p>WASH and infection prevention and control work with healthcare facilities in Ramu and Ukhiya.</p></section><section class="career-entry"><p class="eyebrow">PREVIOUS EXPERIENCE</p><h2>Project Officer — WASH</h2><h3>Action Against Hunger</h3><p>Humanitarian WASH programming in the Rohingya response.</p></section><p><a class="ui-button primary" href="/projects/">Explore professional projects →</a></p>
