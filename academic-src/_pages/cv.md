@@ -50,9 +50,6 @@ Water supply and sanitation infrastructure, operational procedures, and communit
 | Engineering and design | AutoCAD, ETABS |
 | Field methods and planning | Water-quality monitoring, WASH FIT, life-cycle cost analysis, O&M planning |
 
-## Standardised test scores
+<h2 id="test-scores">Standardised test scores</h2>
 
-| Test | Score |
-|:---|:---|
-| GRE | **312 / 340** — total |
-| IELTS | **7.5 / 9** — overall |
+<div class="exam-grid"><article class="exam-card exam-gre"><div class="exam-top"><span class="eyebrow">GRE GENERAL TEST</span><span class="exam-icon" aria-hidden="true">↗</span></div><div class="exam-number">312<span> / 340</span></div><h3>Total score</h3><p>Combined Verbal Reasoning and Quantitative Reasoning score.</p><a href="/cv/#test-scores">View academic profile <span aria-hidden="true">→</span></a></article><article class="exam-card exam-ielts"><div class="exam-top"><span class="eyebrow">IELTS ACADEMIC</span><span class="score-label">Overall band</span></div><div class="exam-number">7.5<span> / 9</span></div><dl class="band-grid"><div><dt>Listening</dt><dd>8.5</dd></div><div><dt>Reading</dt><dd>8.0</dd></div><div><dt>Writing</dt><dd>6.5</dd></div><div><dt>Speaking</dt><dd>6.5</dd></div></dl></article></div>
